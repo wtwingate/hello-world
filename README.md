@@ -1,3 +1,3 @@
 # hello-world
 
-Writing the classic "hello, world" program in every language that I learn.
+Examples of the classic "hello, world" program in various languages.
